@@ -33,6 +33,13 @@ const PROJECTS = [
       "TWEEDLE: Stream tweets in realtime based on plain text to kafka.Stream the tweets from kafka to realtime sentiment analysis engine using Apache Storm Framework.",
     link: "https://github.com/AishwaryaPSU/Tweedle",
     image: twitterLogo
+  },
+  {
+    id: 5,
+    title: "QwikLabs Profile",
+    description:
+      "Participated in Google Cloud's #MajulahGCP, and completed 6 quests related to various features provided by GCP.",
+    link: "hhttps://www.qwiklabs.com/public_profiles/e37c5664-cedb-49d0-b199-bff771586f12"
   }
 ];
 
