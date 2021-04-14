@@ -2,6 +2,7 @@ import objectDetection from "../assets/object_detection_logo.png";
 import twitterLogo from "../assets/twitter-icon.png";
 import weather from "../assets/weather.png";
 import lostNfound from "../assets/lost-n-found.jpg";
+import qwiklabs from "../assets/qwiklabs.png";
 
 const PROJECTS = [
   {
@@ -39,7 +40,8 @@ const PROJECTS = [
     title: "QwikLabs Profile",
     description:
       "Participated in Google Cloud's #MajulahGCP, and completed 6 quests related to various features provided by GCP.",
-    link: "hhttps://www.qwiklabs.com/public_profiles/e37c5664-cedb-49d0-b199-bff771586f12"
+    link: "hhttps://www.qwiklabs.com/public_profiles/e37c5664-cedb-49d0-b199-bff771586f12",
+    image: qwiklabs
   }
 ];
 
