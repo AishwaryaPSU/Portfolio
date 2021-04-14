@@ -40,7 +40,7 @@ const PROJECTS = [
     title: "QwikLabs Profile",
     description:
       "Participated in Google Cloud's #MajulahGCP, and completed 6 quests related to various features provided by GCP.",
-    link: "hhttps://www.qwiklabs.com/public_profiles/e37c5664-cedb-49d0-b199-bff771586f12",
+    link: "https://www.qwiklabs.com/public_profiles/e37c5664-cedb-49d0-b199-bff771586f12",
     image: qwiklabs
   }
 ];
